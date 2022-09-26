@@ -1,0 +1,2 @@
+a = "Harold"
+print(a)
